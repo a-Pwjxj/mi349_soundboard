@@ -1,6 +1,6 @@
 alert('Testing message for soundboard')
 
-first.onclick = popUp()
+button.onclick = popUp()
 
 function popUp() {
     alert('This is another test')
