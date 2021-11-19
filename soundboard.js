@@ -24,3 +24,13 @@ function playAhem() {
   var ahem = new Audio('ahem_x.wav');
   ahem.play();
 }
+
+function playApplause() {
+  var applause = new Audio('applause_y.wav');
+  applause.play();
+}
+
+function playArrow() {
+  var arrow = new Audio('arrow_x.wav');
+  arrow.play();
+}
