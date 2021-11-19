@@ -18,3 +18,9 @@ nav {
     right: 10px;
     top: 10px;
 }
+
+.mobile-trigger {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
